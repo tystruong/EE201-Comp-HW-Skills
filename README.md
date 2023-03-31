@@ -1,2 +1,4 @@
-# EE201
-EE201 - Spring Quarter (2023)
+# EE201 (Spring Quarter - 2023): aboutMe
+## Tyson Truong 
+
+Testing, test. :)
